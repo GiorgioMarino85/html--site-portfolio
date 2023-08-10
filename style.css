@@ -1,0 +1,49 @@
+.container-head {
+    background-color:bisque;
+    padding-top: 400px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-cloud {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position:absolute;
+    top: 40px;
+    right: 40px;
+}
+
+.bottom-cloud {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position:absolute;
+    bottom: 400px;
+    left: 40px;
+}
+
+h1 {
+    text-align: center;
+    color:brown;
+    font-family: "Sacramento", cursive
+}
+
+h2 {
+    text-align: center;
+    color: chocolate;
+}
+
+.foto {
+    border-radius: 50%;
+}
+
+#testo-centro {
+    color:brown;
+}
+
+#paraCentro {
+    color:chocolate;
+}
